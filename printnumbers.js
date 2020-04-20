@@ -2,7 +2,7 @@
 //    console.log(count);
 // }
 
-function printNumbers(startnum, endnum){
+function printNumbers(startnum, endnum){ //we have 2 variables, startnum and endnum, 
     for (let count = startnum; count <= endnum; count++) {
         console.log(count);
     }  

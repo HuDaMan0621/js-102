@@ -8,7 +8,7 @@
 // }
 
 // function printNumbers(startnum, endnum) {
-    
+
 // }
 
 
@@ -27,21 +27,17 @@
 //     i++;
 //   }
 //   while (i < 10)
-value = 10;
 
-function printNumbers(startnum, endnum){
-    
-    while (startnum <= endnum){
+function printNumbers(startnum, endnum) {
+
+    while (startnum <= endnum) {
 
         console.log(startnum)
         startnum++;
 
-        // if (startnum <= endnum);
-        //     break;
-        // value++;
     }
 
 }
 
-printNumbers(1,10);
+printNumbers(1, 10);
 
